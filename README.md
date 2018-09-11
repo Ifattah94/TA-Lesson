@@ -98,4 +98,4 @@ lets try it out
 ```swift
 doubleANumber(number: 5)
 ```
-
+This gives us a return value of 10!
