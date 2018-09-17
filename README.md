@@ -13,6 +13,7 @@
 
 ## Variables and Constants 
 **Variable** - piece of information that is stored with two components, a name and a value. The value can be accessed and changed later.
+
 **Constant** - just like a variable it stores a value via a name. However, the value stored cannot be changed once it is declared.
 
 A variable can be thought of as a box that has a label and contents inside. The label is the name of the variable and the contents is the value it stores. Lets see some examples.
